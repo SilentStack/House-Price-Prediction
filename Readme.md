@@ -15,8 +15,7 @@ Matplotlib, Seaborn (Visualization)
 
 🚀 How to Run
 Clone the repository
-Install dependencies using pip install -r requirements.txt
-Run house_price_prediction.py
+Run main.ipynb
 
 📄 License
 This project is open-source under the MIT License.
